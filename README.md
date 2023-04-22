@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with javascript, react, nextjs<br>🌱 I’m currently learning javascript, react, nextjs<br>⚡ Fun fact I mainly use linux than windows
+🤝 I’m looking for help with javascript, react, nextjs<br>🌱 I’m currently learning kernel and porting<br>⚡ Fun fact I mainly use linux than windows
 
 
 # 💻 Tech Stack:
